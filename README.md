@@ -1,3 +1,3 @@
 # Midterm_BA_Q3
 
-file:///Users/himanijain/visualization_midterm/index.html
+https://cdn.rawgit.com/hj875Himani/Midterm_BA_Q3/master/index.html
